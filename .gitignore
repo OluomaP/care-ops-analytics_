@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+# The SQLite database is rebuilt by `python run_all.py`
+data/processed/care_ops.db
